@@ -1,0 +1,24 @@
+{
+  "name": "tscourse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladyslav-rohalov/tsCourse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladyslav-rohalov/tsCourse/issues"
+  },
+  "homepage": "https://github.com/vladyslav-rohalov/tsCourse#readme",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
